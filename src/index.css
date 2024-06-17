@@ -1,0 +1,20 @@
+body{
+    background-image: url(assets/pexels-chuck-3109167.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.clock{
+    color: rgb(237, 228, 217);
+    font-size: 7rem;
+    font-weight: bold;
+    font-family: 'Digital-7', sans-serif;
+    text-align:right;
+    margin-top: 450px;
+    margin-right: 25px ;
+   
+}
+.clock-container{
+
+}
